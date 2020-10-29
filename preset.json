@@ -13,10 +13,8 @@
                 "save"
             ]
         },
-        "@vue/composition-api": {
-            "version": "^0.6.7"
-        },
         "@vue/cli-plugin-router": {
+            "version": "^4.0.0-rc.1",
             "historyMode": true
         }
     },

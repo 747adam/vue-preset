@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import { ref } from '@vue/composition-api'
+import { ref } from 'vue'
 import Header from './components/Header.vue'
 
 export default {
