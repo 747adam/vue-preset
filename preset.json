@@ -1,0 +1,24 @@
+{
+    "useTaobaoRegistry": false,
+    "packageManager": "npm",
+    "useConfigFiles": true,
+    "cssPreprocessor": "node-sass",
+    "plugins": {
+        "@vue/cli-plugin-babel": {
+            "version": "~4.5.0"
+        },
+        "@vue/cli-plugin-eslint": {
+        "config": "standard",
+        "lintOn": [
+                "save"
+            ]
+        },
+        "@vue/composition-api": {
+            "version": "^0.6.7"
+        },
+        "@vue/cli-plugin-router": {
+            "historyMode": true
+        }
+    },
+    "vueVersion": "3"
+  }
